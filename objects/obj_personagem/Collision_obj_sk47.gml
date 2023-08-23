@@ -1,0 +1,1 @@
+global.ak47_tem = 1;
